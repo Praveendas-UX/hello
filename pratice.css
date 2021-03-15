@@ -1,0 +1,19 @@
+.media {
+display: inline-block;
+    width: 305px;
+height: 66px;
+background: #FFFFFF;
+border: 1px solid #ECF0F1;
+box-sizing: border-box;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.25);}
+
+.media-text{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.12em;
+text-transform: uppercase;
+    color: #038AD8;
+}
